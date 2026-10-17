@@ -47,3 +47,21 @@ Total Students: 2
 
 ## 8. Conclusion
 This project demonstrates how Python classes, objects, methods, and lists can be used to manage student information. It provides a simple foundation for developing more advanced student management systems.
+
+
+## 9. Digital Public Goods (DPG) Alignment
+
+### Open Source
+The source code is shared in a public GitHub repository so that others can study and improve it.
+
+### Inclusive and Accessible Design
+The program uses simple text output and clear labels to make student records easy to understand.
+
+### Privacy-Respecting
+The demonstration uses sample student records and does not require sensitive personal information.
+
+### Modular and Reusable
+The program separates student information from record management using two classes. Methods can be reused to display and manage student records.
+
+## 10. Limitations and Future Improvements
+This is a beginner demonstration. Future versions could allow users to enter student details, search for students, update records, and save information between runs.
